@@ -1,4 +1,4 @@
-# 🩺 Pneumonia Detection using Federated Learning + Streamlit
+# Pneumonia Detection using Federated Learning + Streamlit
 
 This is a federated learning project that predicts pneumonia from chest X-rays using a deep learning model and a simple Streamlit web interface.
 
